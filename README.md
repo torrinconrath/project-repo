@@ -1,0 +1,1 @@
+This is our groups project repository for CS 3704. This will contain the final report, black box testing plan, previous milestones, and another repository to the demo and its code and issues.
