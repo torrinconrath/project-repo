@@ -1,4 +1,5 @@
-This is our current demo of a Kanban Board
+## This is the Current Demo of a Kanban Board
 
-Changes needed to make:
-Add auto assigning tasks with Canvas API Key
+Check the Projects Tab to see the list of bugs needed to be fixed and features to implement.
+
+Feel free to included wanted features to add or bugs you notice at torrin@vt.edu
