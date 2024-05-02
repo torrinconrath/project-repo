@@ -13,7 +13,7 @@ We wanted to develop an automatic canvas implemented kanban board to assist with
 To help improve productivity for students, we are developing a Kanban Board with Canvas integration. This canvas integration will allow automatic assignment importing to the Kanban Board. Furthermore, we have included a Pomodoro Timer to help with productivity and time management, especially for students with focusing issues.
 
 ### Location
-All revelant files are included in this repository. This includes all the project management reports, testing plan, final report, and code. To see the current state of the Kanban Board, you can find it on my Projects Page. https://torrinconrath.github.io/
+All revelant files are included in this repository. This includes all the project management reports, testing plan, final report, and code. To see the current state of the Kanban Board, you can find it on my Projects Page https://torrinconrath.github.io/.
 
 ### Questions
 Please let any further questions or concerns at torrin@vt.edu. Thank you for your time and support!
